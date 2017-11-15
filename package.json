@@ -1,0 +1,26 @@
+{
+  "name": "storager",
+  "version": "1.0.0",
+  "description": "This is an inventory program which has been devloped as a web application using different software technologies",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingsuccessfully/storager.git"
+  },
+  "author": "Jeisson Rueda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codingsuccessfully/storager/issues"
+  },
+  "homepage": "https://github.com/codingsuccessfully/storager#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6"
+  }
+}
