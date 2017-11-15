@@ -4,8 +4,9 @@
   "description": "This is an inventory program which has been devloped as a web application using different software technologies",
   "main": "index.html",
   "scripts": {
+    "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "lite-server"
+    "lite": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -21,6 +22,7 @@
     "lite-server": "^2.3.0"
   },
   "dependencies": {
-    "bootstrap": "^4.0.0-alpha.6"
+    "bootstrap": "^4.0.0-alpha.6",
+    "font-awesome": "^4.7.0"
   }
 }
